@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Murilo-Morais-Do-Vale-Lima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Morais-Do-Vale-Lima&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Morais-Do-Vale-Lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Morais-Do-Vale-Lima&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
