@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Murilo-Morais-Do-Vale-Lima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Morais-Do-Vale-Lima&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Morais-Do-Vale-Lima&layout=compact&langs_count=6&theme=onedark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Morais-Do-Vale-Lima&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Morais-Do-Vale-Lima&layout=compact&langs_count=6&theme=gruvbox"/>
 
 </div>
 <div style="display: inline_block"><br>
