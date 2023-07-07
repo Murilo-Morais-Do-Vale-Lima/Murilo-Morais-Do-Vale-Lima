@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Murilo-Morais-Do-Vale-Lima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Morais-Do-Vale-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Morais-Do-Vale-Lima&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Morais-Do-Vale-Lima&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -12,12 +12,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
- <br>
  
- 
-<div> 
-
- 
-  ![Snake animation](https://github.com/Murilo-Morais-Do-Vale-Lima/Murilo-Morais-Do-Vale-Lima/blob/output/github-contribution-grid-snake.svg)
-
-</div>
